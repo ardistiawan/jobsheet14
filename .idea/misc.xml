@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/activity_fragment_busana.xml" value="0.3484375" />
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/activity_fragment_kuliner.xml" value="0.3484375" />
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/activity_fragment_otomotif.xml" value="0.3484375" />
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/activity_fragment_pengelasan.xml" value="0.3484375" />
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/activity_fragment_pplg.xml" value="0.3484375" />
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/activity_main.xml" value="0.29564411492122333" />
+        <entry key="..\:/Users/DELL PC/AndroidStudioProjects/JOOBSHEET14/app/src/main/res/layout/fragment_busana.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
